@@ -2,4 +2,4 @@
 
 To run the tests:
 
-```gradlew test
+```gradlew test```
